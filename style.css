@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
 
-@import url('https://api.fontshare.com/v2/css?f[]=switzer@2,1&f[]=supreme@2,1&f[]=pilcrow-rounded@1&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=general-sans@1,2&f[]=pilcrow-rounded@1&display=swap');
 
 body {
   margin: 0px;
@@ -12,15 +12,15 @@ svg {
 }
 
 h1 {
-  font-family: 'Supreme', system-ui;
-  letter-spacing: -2px;
+  font-family: 'General Sans', system-ui;
+  letter-spacing: -1px;
   font-weight: bold;
   line-height: 40px;
 }
 
 h2 {
-  font-family: 'Supreme', system-ui;
-  letter-spacing: -2px;
+  font-family: 'General Sans', system-ui;
+  letter-spacing: -1px;
   font-weight: bold;
 }
 
@@ -158,8 +158,8 @@ h2 {
 
 .--global-title {
   margin-top: 20px;
-  font-family: 'Supreme', system-ui;
-  letter-spacing: -2px;
+  font-family: 'General Sans', system-ui;
+  letter-spacing: -1px;
   font-size: 70px;
   line-height: 60px;
   text-align: center;
@@ -168,7 +168,7 @@ h2 {
 
 .--global-headline {
   margin-top: -35px;
-  font-family: 'Supreme', system-ui;
+  font-family: 'General Sans', system-ui;
   letter-spacing: -1px;
   font-size: 28px;
   line-height: 35px;
@@ -205,7 +205,7 @@ h2 {
 }
 
 .--global-body {
-  font-family: 'Supreme', system-ui;
+  font-family: 'General Sans', system-ui;
   letter-spacing: -1px;
   text-align: left;
   font-size: 20px;
